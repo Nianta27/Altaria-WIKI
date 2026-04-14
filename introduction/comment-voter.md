@@ -61,3 +61,5 @@ Le timer vous indique dans combien de temps vous pourrez revoter
 <figure><img src="../.gitbook/assets/image (7) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 Utilise ta clé de vote sur le box pour obtenir une récompense aléatoire.
+
+En faisant clique gauche sur une des crates presente sur le serveur vous pourez simplement voir les loots obtenable via cette dernière.
