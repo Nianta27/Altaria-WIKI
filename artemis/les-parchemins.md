@@ -75,3 +75,9 @@ Achète des cristaux avec la monnaie du serveur pour passer une étapes instanta
 Une fois un parchemin terminer à 100% tu obtient des récompense aléatoire!
 
 Plus la rareté du parchemin est importante, plus la récompense est élevées
+
+Devant chaque étape d'un parchemin ce trouve une étoile de couleur représentant la difficultée de l'étape, elle représente respectivement :
+- Vert = Commun
+- Violet = Epic
+- Orange = Legendaire
+Ces niveaux de difficulté d'étape sont définie au hasard et donne un aperçus de la hauteur de la récompense.
